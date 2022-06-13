@@ -19,7 +19,7 @@
 
 ## Key Features
 
-* Pull outputs from the [UK Department for Transport's Vehicle Enquiry Service API [https://developer-portal.driver-vehicle-licensing.api.gov.uk/apis/vehicle-enquiry-service/vehicle-enquiry-service-description.html#vehicle-enquiry-service-api] into your mileage claim data including:
+* Pull outputs from the [UK Department for Transport's Vehicle Enquiry Service API](https://developer-portal.driver-vehicle-licensing.api.gov.uk/apis/vehicle-enquiry-service/vehicle-enquiry-service-description.html#vehicle-enquiry-service-api) into your mileage claim data including:
     - Vehicle carbon emissions (CO<sub>2</sub>/km)
     - Year of manufacture
     - Fuel type

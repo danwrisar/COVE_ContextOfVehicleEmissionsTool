@@ -7,12 +7,11 @@
   <br>
 </h1>
 
-<h4 align="center">A tool for calculating carbon emissions associated from organisational mileage claim data.</h4>
+<h4 align="center">A tool for calculating carbon emissions associated from organisational mileage claim data developed by [Kent Community Health NHS Foundation Trust](https://kentcht.nhs.uk).</h4>
 
 <p align="center">
   <a href="#key-features">Key Features</a> •
   <a href="#how-to-use">How To Use</a> •
-  <a href="#download">Download</a> •
   <a href="#credits">Credits</a> •
   <a href="#license">License</a>
 </p>
@@ -37,7 +36,7 @@
     - Organisation
     - Journey reason
 
-## How To Download and Use
+## How To Use
 
 The files can be downloaded by navigating to the parent folder 'cove-project' and choosing the 'Download ZIP' option from the 'Code' button. Alternatively, the repository can be forked and/or cloned using [Git](https://git-scm.com).
 
@@ -53,7 +52,7 @@ The COVE Tool is [emailware](https://en.wiktionary.org/wiki/emailware). Meaning,
 
 ## Credits
 
-This software uses the following open source packages:
+This software uses the following packages:
 
 - [Pandas](https://pandas.pydata.org/)
 - [Numpy](https://numpy.org/)

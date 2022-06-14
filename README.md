@@ -7,7 +7,7 @@
   <br>
 </h1>
 
-<h4 align="center">A tool for calculating carbon emissions associated from organisational mileage claim data developed by [Kent Community Health NHS Foundation Trust](https://kentcht.nhs.uk).</h4>
+<h4 align="center">A tool for calculating carbon emissions associated from organisational mileage claim data developed by the Kent Community Health NHS Foundation Trust.</h4>
 
 <p align="center">
   <a href="#key-features">Key Features</a> •
@@ -62,6 +62,7 @@ This software uses the following packages:
 
 - [Driver & Vehicle Standards Agency](https://github.com/dvsa)
 - [NHS PyCom](https://github.com/nhs-pycom/nhs.pycom)
+- [Kent Community Health NHS Foundation Trust](https://kentcht.nhs.uk)
 
 ## License
 

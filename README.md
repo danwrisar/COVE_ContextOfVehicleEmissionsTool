@@ -14,7 +14,7 @@
   <a href="#credits">Credits</a> •
   <a href="#license">License</a> •
   <a href="#example-report">Example report</a> •
-  <a href="#example-report">Change log</a>
+  <a href="#change-log">Change log</a>
 </p>
 
 ## Key features

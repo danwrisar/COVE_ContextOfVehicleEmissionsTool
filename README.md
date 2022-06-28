@@ -1,4 +1,4 @@
-A tool for calculating carbon emissions associated from organisational mileage claim data developed by the Sustainability Team at [Kent Community Health NHS Foundation Trust](https://www.kentcht.nhs.uk/) in collaboration with [Dr Steven Firth](https://github.com/stevenkfirth) at [Loughborough University](https://www.lboro.ac.uk/departments/abce/).
+> A tool for calculating carbon emissions associated from organisational mileage claim data developed by the Sustainability Team at [Kent Community Health NHS Foundation Trust](https://www.kentcht.nhs.uk/) in collaboration with [Dr Steven Firth](https://github.com/stevenkfirth) at [Loughborough University](https://www.lboro.ac.uk/departments/abce/).
 
 <h1 align="center">
   <br>

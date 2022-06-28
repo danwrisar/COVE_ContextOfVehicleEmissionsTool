@@ -70,11 +70,11 @@ This software uses the following packages:
 
 MIT
 
-## Example report
-
-<img src="https://github.com/danwrisar/COVE_ContextOfVehicleEmissionsTool/blob/main/img/COVEReportSample.png" alt="COVE Tool">
-
 ## Change log
 
 * Context of Vehicle Emissions (COVE) Tool v1.0 - 28 June 2022
   - Initial public release sharing 1) The means of implementation to contextualise mileage claim datasets with the DoT's Vehicle Enquiry Service API, and 2) An approach to wrangling mileage claim data to facilitate contextualisation.
+
+## Example report
+
+<img src="https://github.com/danwrisar/COVE_ContextOfVehicleEmissionsTool/blob/main/img/COVEReportSample.png" alt="COVE Tool">

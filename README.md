@@ -4,7 +4,7 @@
   <br>
   <img src="https://github.com/danwrisar/COVE_ContextOfVehicleEmissionsTool/blob/main/img/covelogo.png" alt="COVE Tool" width="200">
   <br>
-  Context of Vehicle Emissions (COVE) Tool
+  Context of Vehicle Emissions (COVE) Tool v1.0
   <br>
 </h1>
 
@@ -13,7 +13,8 @@
   <a href="#how-to-use">How To Use</a> •
   <a href="#credits">Credits</a> •
   <a href="#license">License</a> •
-  <a href="#example-report">Example report</a>
+  <a href="#example-report">Example report</a> •
+  <a href="#example-report">Change log</a>
 </p>
 
 ## Key features
@@ -44,7 +45,8 @@ Each module has an individual README for guidance on how to implement via the co
 
 * Module One: VES API cache creation
 * Module Two: Mileage data analysis
-* Module Three: Create graphs to visualise the mileage claim data
+* ~~Module Three: Create graphs to visualise the mileage claim data~~ (Coming in v1.1!)
+* ~~Module Four: Geospatial visualisation of journeys, destinations and bases~~ (Coming in v1.2!)
 
 ## Emailware
 
@@ -71,3 +73,8 @@ MIT
 ## Example report
 
 <img src="https://github.com/danwrisar/COVE_ContextOfVehicleEmissionsTool/blob/main/img/COVEReportSample.png" alt="COVE Tool">
+
+## Change log
+
+* Context of Vehicle Emissions (COVE) Tool v1.0 - 28 June 2022
+  - Initial public release sharing 1) The means of implementation to contextualise mileage claim datasets with the DoT's Vehicle Enquiry Service API, and 2) An approach to wrangling mileage claim data to facilitate contextualisation.

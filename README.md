@@ -1,7 +1,7 @@
 
 <h1 align="center">
   <br>
-  <a href="http://www.amitmerchant.com/electron-markdownify"><img src="https://github.com/danwrisar/COVE_ContextOfVehicleEmissionsTool/blob/main/img/covelogo.png" alt="COVE Tool" width="200"></a>
+  <img src="https://github.com/danwrisar/COVE_ContextOfVehicleEmissionsTool/blob/main/img/covelogo.png" alt="COVE Tool" width="200">
   <br>
   Context of Vehicle Emissions (COVE) Tool
   <br>
@@ -67,3 +67,7 @@ This software uses the following packages:
 ## License
 
 MIT
+
+## Example report
+
+<img src="https://github.com/danwrisar/COVE_ContextOfVehicleEmissionsTool/blob/main/A4 COVE Report.pdf" alt="COVE Tool" width="200">

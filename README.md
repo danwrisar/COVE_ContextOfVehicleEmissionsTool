@@ -70,4 +70,4 @@ MIT
 
 ## Example report
 
-<img src="https://github.com/danwrisar/COVE_ContextOfVehicleEmissionsTool/blob/main/A4 COVE Report.pdf" alt="COVE Tool" width="200">
+<img src="https://github.com/danwrisar/COVE_ContextOfVehicleEmissionsTool/blob/main/img/COVEReportSample.png" alt="COVE Tool">

@@ -12,10 +12,11 @@
   <a href="#key-features">Key Features</a> •
   <a href="#how-to-use">How To Use</a> •
   <a href="#credits">Credits</a> •
-  <a href="#license">License</a>
+  <a href="#license">License</a> •
+  <a href="#example-report">Example report</a>
 </p>
 
-## Key Features
+## Key features
 
 * Pull outputs from the [UK Department for Transport's Vehicle Enquiry Service API](https://developer-portal.driver-vehicle-licensing.api.gov.uk/apis/vehicle-enquiry-service/vehicle-enquiry-service-description.html#vehicle-enquiry-service-api) into your mileage claim data including:
     - Vehicle carbon emissions (CO<sub>2</sub>/km)
@@ -35,7 +36,7 @@
     - Organisation
     - Journey reason
 
-## How To Use
+## How to use
 
 The files can be downloaded by navigating to the parent folder 'cove-project' and choosing the 'Download ZIP' option from the 'Code' button. Alternatively, the repository can be forked and/or cloned using [Git](https://git-scm.com).
 
